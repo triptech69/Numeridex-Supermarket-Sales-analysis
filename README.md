@@ -1,2 +1,2 @@
 # Numeridex-Supermarket-Sales-analysis
-Exploratory Data Analysis using Python, pandas, matplotlib, seaborn, plotly.
+Exploratory Data Analysis using Excel and Power Bi .
