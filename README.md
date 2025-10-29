@@ -1,4 +1,5 @@
 <img width="4850" height="490" alt="image" src="https://github.com/user-attachments/assets/b65c192e-8ea7-48d9-9eb7-aa2d685f8f11" />
+
 # Numeridex-Supermarket-Sales-analysis
 
 Exploratory Data Analysis using Excel and Power Bi .
