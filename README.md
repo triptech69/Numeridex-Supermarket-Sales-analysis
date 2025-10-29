@@ -14,3 +14,11 @@ This project analyzes a supermarket sales dataset containing detailed informatio
 * Sales performance peaked in March after a February dip
 * The average customer rating of 6.89 indicates moderate satisfaction, highlighting opportunities for service quality improvements.
 * Electronic Accessories and Fashion Accessories significantly underperformed.
+## Recommendations
+* Increase stock and promotional activities for Health & Beauty, Sports & Travel, and Food & Beverages to capitalize on high demand.
+* Investigate and address underperformance in Electronic Accessories, Fashion Accessories, and Home & Lifestyle through pricing reviews or product repositioning.
+* Study and replicate Branch C's successful strategies across Branch A and Branch B to improve overall sales performance.
+* Strengthen membership programs with exclusive benefits and discounts to convert more normal customers into loyal members.
+* Introduce E-wallet payment incentives such as cashback or loyalty points to encourage digital adoption and reduce transaction costs.
+* Improve customer experience and service quality to raise the average rating above 6.89, particularly in lower-rated branches.
+* Implement strategic bundling of underperforming products with top sellers to boost sales of weaker categories
